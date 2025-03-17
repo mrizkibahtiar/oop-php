@@ -31,11 +31,16 @@ class Contoh
 
 $obj = new Contoh;
 echo $obj->halo();
+echo "<br>";
 echo $obj->halo();
+echo "<br>";
 echo $obj->halo();
+echo "<br>";
 
 
 $obj2 = new Contoh;
 echo $obj2->halo();
+echo "<br>";
 echo $obj2->halo();
+echo "<br>";
 echo $obj2->halo();
